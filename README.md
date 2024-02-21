@@ -1,4 +1,4 @@
 # amittyagii-demo
 This is my first git repositiory.
-<br<
+<br>
 Author - Amit Tyagi
